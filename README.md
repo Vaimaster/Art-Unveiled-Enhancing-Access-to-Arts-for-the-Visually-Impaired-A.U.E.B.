@@ -18,5 +18,7 @@ In order to execute this model using your own images, you need to create a direc
  <li><b><i>XXXXX_predicted_results.txt</b></i> files corresponds to the predicted labels.</li>
  <li><b><i>XXXXX_description.txt</b></i> files corresponds to the question that we made to google Bard in order to get an answer description.</li>
  <li><b><i>XXXXX_desired_response.txt</b></i> files corresponds to the answer of google Bard.</li>
- <li><b><i>XXXXX_example.mp3</b></i> files corresponds to the audio description file for an image.</li>
-</dl>
+ <li><b><i>XXXXX_example.mp3</b></i> files corresponds to the audio description file for an image.</li></dl>
+<dl type = "circle">In the <b><i>train</b></i> folder, there is our training dataset with:
+ <li>All the <b><i>images</b></i> used to train and tune our models </li>
+ <li>All the corresponding <b><i>labels</b></i> of the training images </li></dl>
