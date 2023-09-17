@@ -11,4 +11,12 @@ In order to execute this model using your own images, you need to create a direc
  <li>The best_hyperparameters.yaml file contains all the tuned hyperparameters</li> 
  <li>the rest files are some plots which indicate how the tuning process took place.</li></dl>
 <dl type = "circle">In the final_models folder, there are:
- 3 final models which were trained using the hyperparameters above and in the end,<br> <b><i>final_mod_yolov8m_afSiLU_optSGD_epochs50/weights/best.pt<b><i> model was selected for prediction.</dl>
+ 3 final models which were trained using the hyperparameters above and in the end,<br> <b><i>final_mod_yolov8m_afSiLU_optSGD_epochs50/weights/best.pt</b></i> model was selected for prediction.</dl>
+<dl type = "circle">In the predict folder, there are:
+ <li>**_XXXXX.jpg_** files corresponds to the images that we predicted.</li>
+ <li>XXXXX.txt files corresponds to the actual labels.</li>
+ <li>XXXXX_predicted_results.txt files corresponds to the predicted labels.</li>
+ <li>XXXXX_description.txt files corresponds to the question that we made to google Bard in order to get an answer description.</li>
+ <li>XXXXX_desired_response.txt files corresponds to the answer of google Bard.</li>
+ <li>XXXXX_example.mp3 files corresponds to the audio description file for an image.</li>
+</dl>
