@@ -30,13 +30,13 @@ In order to execute this model using your own images, you need to create a direc
 <dl type = "circle">The remaining files are explained below:
  <li><b><i>best_model_final.pt</b></i> is a torch.save of our model, containing both weights and other parameters </li>
  <li><b><i>best_model_info.csv</b></i> is a .csv file containing 4 metrics for the 3 final models which are located in <b><i>final_models</b></i> directory.<br>
- With the mean of those 4 metrics(mean precision, mean recall, mean Average Precision (mAP) at an IoU threshold of 0.5 and mean Average Precision (mAP) over IoU thresholds of 0.5 - 0.95 in steps of 0.05), we decided which is the final model for predictions.</li>
+ We decided which would be the final model for predictions based on the mean of those 4 metrics(mean precision, mean recall, mean Average Precision (mAP) at an IoU threshold of 0.5 and mean Average Precision (mAP) over IoU thresholds of 0.5 - 0.95 in steps of 0.05)</li>
  <li><b><i>best_model_info.xlsx</b></i> is a .xlsx file with the same data as <b><i>best_model_info.csv</b></i> file.</li>
  <li><b><i>classes.txt</b></i> is a .txt file containing all the available classes of our model.</li>
  <li><b><i>data_custom.yaml</b></i> is a .yaml file containing some basic arguments for our initial models.</li>
  <li><b><i>data_custom_final.yaml</b></i> is a .yaml file containing some basic arguments for our final models combined with the tuned hyperparameters located in <b><i>detect/tune/best_hyperparameters.yaml.</b></i></li>
  <li><b><i>model_info.csv</b></i> is a .csv file containing 4 metrics for the 36 initial models which are located in <b><i>trained_models</b></i> directory.<br>
- With the mean of those 4 metrics(mean precision, mean recall, mean Average Precision (mAP) at an IoU threshold of 0.5 and mean Average Precision (mAP) over IoU thresholds of 0.5 - 0.95 in steps of 0.05), we decided which is the final model for tuning.</li>
+ We decided which is the final model for tuning based on the mean of those 4 metrics(mean precision, mean recall, mean Average Precision (mAP) at an IoU threshold of 0.5 and mean Average Precision (mAP) over IoU thresholds of 0.5 - 0.95 in steps of 0.05).</li>
  <li><b><i>model_info.xlsx</b></i> is a .xlsx file with the same data as <b><i>model_info.csv</b></i> file.</li>
  <li><b><i>notes.json</b></i> is a .json file containing all categories ids with the  corresponding names, provided by <b><i>Label Studio</b></i>.</li>
 </dl>
