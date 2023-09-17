@@ -1,0 +1,357 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "baby"
+    },
+    {
+      "id": 1,
+      "name": "bar"
+    },
+    {
+      "id": 2,
+      "name": "basket"
+    },
+    {
+      "id": 3,
+      "name": "beach"
+    },
+    {
+      "id": 4,
+      "name": "beard"
+    },
+    {
+      "id": 5,
+      "name": "bed"
+    },
+    {
+      "id": 6,
+      "name": "belt"
+    },
+    {
+      "id": 7,
+      "name": "boat"
+    },
+    {
+      "id": 8,
+      "name": "book"
+    },
+    {
+      "id": 9,
+      "name": "bottle"
+    },
+    {
+      "id": 10,
+      "name": "bow"
+    },
+    {
+      "id": 11,
+      "name": "boy"
+    },
+    {
+      "id": 12,
+      "name": "building"
+    },
+    {
+      "id": 13,
+      "name": "cat"
+    },
+    {
+      "id": 14,
+      "name": "chair"
+    },
+    {
+      "id": 15,
+      "name": "cigarette"
+    },
+    {
+      "id": 16,
+      "name": "city"
+    },
+    {
+      "id": 17,
+      "name": "collar"
+    },
+    {
+      "id": 18,
+      "name": "cross"
+    },
+    {
+      "id": 19,
+      "name": "crowd"
+    },
+    {
+      "id": 20,
+      "name": "dog"
+    },
+    {
+      "id": 21,
+      "name": "door"
+    },
+    {
+      "id": 22,
+      "name": "dress"
+    },
+    {
+      "id": 23,
+      "name": "ear"
+    },
+    {
+      "id": 24,
+      "name": "earing"
+    },
+    {
+      "id": 25,
+      "name": "earth"
+    },
+    {
+      "id": 26,
+      "name": "eye"
+    },
+    {
+      "id": 27,
+      "name": "eyeglasses"
+    },
+    {
+      "id": 28,
+      "name": "fabric"
+    },
+    {
+      "id": 29,
+      "name": "face"
+    },
+    {
+      "id": 30,
+      "name": "fish"
+    },
+    {
+      "id": 31,
+      "name": "floor"
+    },
+    {
+      "id": 32,
+      "name": "flower"
+    },
+    {
+      "id": 33,
+      "name": "fruit"
+    },
+    {
+      "id": 34,
+      "name": "girl"
+    },
+    {
+      "id": 35,
+      "name": "glass"
+    },
+    {
+      "id": 36,
+      "name": "grapes"
+    },
+    {
+      "id": 37,
+      "name": "grass"
+    },
+    {
+      "id": 38,
+      "name": "hair"
+    },
+    {
+      "id": 39,
+      "name": "hand"
+    },
+    {
+      "id": 40,
+      "name": "hat"
+    },
+    {
+      "id": 41,
+      "name": "horse"
+    },
+    {
+      "id": 42,
+      "name": "hug"
+    },
+    {
+      "id": 43,
+      "name": "instrument"
+    },
+    {
+      "id": 44,
+      "name": "jacket"
+    },
+    {
+      "id": 45,
+      "name": "lamp"
+    },
+    {
+      "id": 46,
+      "name": "land"
+    },
+    {
+      "id": 47,
+      "name": "landscape"
+    },
+    {
+      "id": 48,
+      "name": "letter"
+    },
+    {
+      "id": 49,
+      "name": "lion"
+    },
+    {
+      "id": 50,
+      "name": "man"
+    },
+    {
+      "id": 51,
+      "name": "mango"
+    },
+    {
+      "id": 52,
+      "name": "mirror"
+    },
+    {
+      "id": 53,
+      "name": "moon"
+    },
+    {
+      "id": 54,
+      "name": "mountain"
+    },
+    {
+      "id": 55,
+      "name": "moustache"
+    },
+    {
+      "id": 56,
+      "name": "mouth"
+    },
+    {
+      "id": 57,
+      "name": "naked"
+    },
+    {
+      "id": 58,
+      "name": "nature"
+    },
+    {
+      "id": 59,
+      "name": "necklace"
+    },
+    {
+      "id": 60,
+      "name": "newspaper"
+    },
+    {
+      "id": 61,
+      "name": "nose"
+    },
+    {
+      "id": 62,
+      "name": "overcoat"
+    },
+    {
+      "id": 63,
+      "name": "picture"
+    },
+    {
+      "id": 64,
+      "name": "pillow"
+    },
+    {
+      "id": 65,
+      "name": "pipe"
+    },
+    {
+      "id": 66,
+      "name": "ring"
+    },
+    {
+      "id": 67,
+      "name": "rock"
+    },
+    {
+      "id": 68,
+      "name": "room"
+    },
+    {
+      "id": 69,
+      "name": "ruff"
+    },
+    {
+      "id": 70,
+      "name": "scissors"
+    },
+    {
+      "id": 71,
+      "name": "sea"
+    },
+    {
+      "id": 72,
+      "name": "shirt"
+    },
+    {
+      "id": 73,
+      "name": "shoe"
+    },
+    {
+      "id": 74,
+      "name": "sky"
+    },
+    {
+      "id": 75,
+      "name": "stairs"
+    },
+    {
+      "id": 76,
+      "name": "stick"
+    },
+    {
+      "id": 77,
+      "name": "street"
+    },
+    {
+      "id": 78,
+      "name": "suit"
+    },
+    {
+      "id": 79,
+      "name": "table"
+    },
+    {
+      "id": 80,
+      "name": "topless"
+    },
+    {
+      "id": 81,
+      "name": "tree"
+    },
+    {
+      "id": 82,
+      "name": "umbrella"
+    },
+    {
+      "id": 83,
+      "name": "wall"
+    },
+    {
+      "id": 84,
+      "name": "water"
+    },
+    {
+      "id": 85,
+      "name": "window"
+    },
+    {
+      "id": 86,
+      "name": "woman"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

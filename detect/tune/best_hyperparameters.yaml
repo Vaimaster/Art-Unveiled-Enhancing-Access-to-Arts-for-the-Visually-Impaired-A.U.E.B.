@@ -1,0 +1,29 @@
+# 25/25 iterations complete ✅ (9163.24s)
+# Results saved to /content/drive/MyDrive/all_data_final/detect/tune2
+# Best fitness=0.72513 observed at iteration 22
+# Best fitness metrics are {'metrics/precision(B)': 0.81049, 'metrics/recall(B)': 0.84822, 'metrics/mAP50(B)': 0.90388, 'metrics/mAP50-95(B)': 0.70527, 'val/box_loss': 0.99576, 'val/cls_loss': 0.83661, 'val/dfl_loss': 0.91535, 'fitness': 0.72513}
+# Best fitness model is /content/drive/MyDrive/all_data_final/detect/train25
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.01915
+lrf: 0.01034
+momentum: 0.94117
+weight_decay: 0.00032
+warmup_epochs: 2.3912
+warmup_momentum: 0.55326
+box: 7.95282
+cls: 0.58789
+dfl: 0.96978
+hsv_h: 0.01366
+hsv_s: 0.52124
+hsv_v: 0.35768
+degrees: 0.0
+translate: 0.0659
+scale: 0.27582
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.44663
+mosaic: 0.98286
+mixup: 0.0
+copy_paste: 0.0
