@@ -23,4 +23,10 @@ In order to execute this model using your own images, you need to create a direc
  <li>All the <b><i>images</b></i> used to train and tune our models </li>
  <li>All the corresponding <b><i>labels</b></i> of the training images </li></dl>
 <dl type = "circle">In the <b><i>trained_models</b></i> folder, there are:
- 36 models which were trained in order to find the best model before tuning.</dl>
+ <li><b><i>36</b></i> models which were trained in order to find the best model before tuning.</li></dl>
+<dl type = "circle">In the <b><i>val</b></i> folder, there is our validation dataset with:
+ <li>All the <b><i>images</b></i> used to evaluate our models </li>
+ <li>All the corresponding <b><i>labels</b></i> of the evaluated images </li></dl>
+<dl type = "circle">The remaining files are explained below:
+ <li><b><i>best_model_final.pt</b></i> is a torch.save of our model, containing both weights and other parameters </li>
+ <li><b><i>best_model_info.csv</b></i> is a csv file containing 4 metrics for the 3 final models which are in <b><i>final_models</b></i> directory</li></dl>
