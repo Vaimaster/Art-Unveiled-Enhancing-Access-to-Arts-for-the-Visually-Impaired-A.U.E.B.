@@ -29,4 +29,5 @@ In order to execute this model using your own images, you need to create a direc
  <li>All the corresponding <b><i>labels</b></i> of the evaluated images </li></dl>
 <dl type = "circle">The remaining files are explained below:
  <li><b><i>best_model_final.pt</b></i> is a torch.save of our model, containing both weights and other parameters </li>
- <li><b><i>best_model_info.csv</b></i> is a csv file containing 4 metrics for the 3 final models which are in <b><i>final_models</b></i> directory</li></dl>
+ <li><b><i>best_model_info.csv</b></i> is a .csv file containing 4 metrics for the 3 final models which are located in <b><i>final_models</b></i> directory.<br>
+ With the mean of those 4 metrics(mean precision, mean recall, mean Average Precision (mAP) at an IoU threshold of 0.5 and mean Average Precision (mAP) over IoU thresholds of 0.5 - 0.95 in steps of 0.05), we decided which is the final model for predictions.</li></dl>
