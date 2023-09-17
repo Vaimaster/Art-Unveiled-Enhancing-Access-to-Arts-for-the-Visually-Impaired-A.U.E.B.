@@ -10,4 +10,5 @@ In order to execute this model using your own images, you need to create a direc
  <li>the weights of the best and the last model that was tuned. </li>
  <li>The best_hyperparameters.yaml file contains all the tuned hyperparameters</li> 
  <li>the rest files are some plots which indicate how the tuning process took place.</li></dl>
-<dl type = "circle">In the final_models folder, there are 3 final models which were trained using the hyperparameters above and in the end, <b><i>final_mod_yolov8m_afSiLU_optSGD_epochs50/weights/best.pt<b><i> model was selected for prediction.</dl>
+<dl type = "circle">In the final_models folder, there are:
+ 3 final models which were trained using the hyperparameters above and in the end,<br> <b><i>final_mod_yolov8m_afSiLU_optSGD_epochs50/weights/best.pt<b><i> model was selected for prediction.</dl>
