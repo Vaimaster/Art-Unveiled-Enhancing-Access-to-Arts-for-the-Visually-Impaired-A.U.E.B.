@@ -45,7 +45,7 @@ In order to execute this model using your own images, you need to create a direc
 
 ### Image
 !["Portrait of Felix Auerbach" by Edvard Munch](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014.jpg)
-"Portrait of Felix Auerbach" by Edvard Munch
+<br>"Portrait of Felix Auerbach" by Edvard Munch
 
 ### Text
 <a href="https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt" target="_blank" rel="noopener">A man is wearing a jacket, suit, and tie. He has a moustache, beard, and cigarette in his hand. His collar is turned up and he has a bow tie on. His beard is neatly trimmed. He is standing in front of a wall.</a>
