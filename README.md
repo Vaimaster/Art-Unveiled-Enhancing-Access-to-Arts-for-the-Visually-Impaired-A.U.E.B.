@@ -40,3 +40,11 @@ In order to execute this model using your own images, you need to create a direc
  <li><b><i>model_info.xlsx</b></i> is a .xlsx file with the same data as <b><i>model_info.csv</b></i> file.</li>
  <li><b><i>notes.json</b></i> is a .json file containing all categories ids with the  corresponding names, provided by <b><i>Label Studio</b></i>.</li>
 </dl>
+
+## Example Image with text and audio description
+### Image
+![Example 1](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014.jpg)
+### Text
+![Example 1 text](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt)
+### Audio
+![Click here to download and play the audio file](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_example.mp3)
