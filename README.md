@@ -47,8 +47,7 @@ In order to execute this model using your own images, you need to create a direc
 ![Example 1](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014.jpg)
 
 ### Text
-<a href="https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt" target="_blank">Example 1 Text</a>
-
+[go](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt){:target="_blank" rel="noopener"}
 
 ### Audio
 [![Click here to play the audio file](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)
