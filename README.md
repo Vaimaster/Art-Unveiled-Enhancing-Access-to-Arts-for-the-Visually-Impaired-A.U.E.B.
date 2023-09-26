@@ -51,4 +51,4 @@ In order to execute this model using your own images, you need to create a direc
 <a href="https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt" target="_blank" rel="noopener">A man is wearing a jacket, suit, and tie. He has a moustache, beard, and cigarette in his hand. His collar is turned up and he has a bow tie on. His beard is neatly trimmed. He is standing in front of a wall.</a>
 
 ### Audio
-[![Click here to download and play the audio file](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)
+Click <a href="https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3" target="_blank" rel="noopener">here</a> to download and play the audio file.
