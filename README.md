@@ -41,10 +41,13 @@ In order to execute this model using your own images, you need to create a direc
  <li><b><i>notes.json</b></i> is a .json file containing all categories ids with the  corresponding names, provided by <b><i>Label Studio</b></i>.</li>
 </dl>
 
-<h2> Example Image with text and audio description</h2><br>
-<h4> Image</h4><br>
-![Example 1](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014.jpg)
-<h4> Text</h4><br>
-![Example 1 text](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt)
-<h4> Audio</h4><br>
-[Click here to download and play the audio file](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)
+## Example Image with Text and Audio Description
+
+### Image
+![Example 1](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014.jpg)
+
+### Text
+[![Example 1 Text](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_desired_response.txt)](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/blob/main/predict/00014_desired_response.txt)
+
+### Audio
+[![Click here to play the audio file](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)](https://github.com/Vaimaster/Art-Unveiled-Enhancing-Access-to-Arts-for-the-Visually-Impaired/raw/main/predict/00014_example.mp3)
